@@ -12,3 +12,29 @@ footer{
 	font-variant: small-caps;
 }
 /* end letters */
+
+/* dedication */
+#dedication footer{
+	margin: 1em;
+	text-align: initial;
+}
+
+#dedication footer p{
+	text-indent: 0;
+}
+
+#dedication footer p:first-child{
+	text-align: right;
+}
+
+#dedication h3{
+	margin-top: 2em;
+}
+/* end dedication */
+
+/* blockquote title */
+#chapter-2-1 blockquote{
+	font-variant: small-caps;
+	text-align: center;
+}
+/* end blockquote title*/
