@@ -51,7 +51,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/372</dc:source>
 		<dc:source>https://archive.org/details/dli.ministry.05373</dc:source>
 		<meta property="se:word-count">62482</meta>
-		<meta property="se:reading-ease.flesch">72.46</meta>
+		<meta property="se:reading-ease.flesch">72.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Prince_Otto</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-louis-stevenson_prince-otto</meta>
 		<dc:creator id="author">Robert Louis Stevenson</dc:creator>
