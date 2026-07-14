@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Prince Otto: A Romance</dc:title>
 		<meta property="file-as" refines="#fulltitle">Prince Otto</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Nobility -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Man-woman relationships -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
