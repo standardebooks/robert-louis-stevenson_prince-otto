@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/robert-louis-stevenson/prince-otto</dc:identifier>
 		<dc:date>2023-06-07T23:53:42Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008107175</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A prince who neglects to rule his kingdom finds that he is about to be deposed.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A prince who neglects to rule his kingdom finds that he is about to be deposed.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Otto likes to hunt and enjoy life, while leaving the rule of his small kingdom in the hands of his wife and her trusted advisor. He hears talk of socialist revolution in his land, and when he tries to take charge, he finds that it’s not so easy to resume his rule. With intrigue and betrayal at every corner, all the players must figure out where they really stand.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Prince Otto&lt;/i&gt; was one of &lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Robert Louis Stevenson’s&lt;/a&gt; earlier works. It didn’t have the success of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island"&gt;Treasure Island&lt;/a&gt;&lt;/i&gt;, but it was, according to Stevenson, his hardest effort of any work, before or after.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/372</dc:source>
 		<dc:source>https://archive.org/details/dli.ministry.05373</dc:source>
