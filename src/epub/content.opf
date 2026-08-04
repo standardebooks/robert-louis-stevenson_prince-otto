@@ -44,7 +44,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008107175</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A prince who neglects to rule his kingdom finds that he is about to be deposed.</dc:abstract>
+		<meta property="schema:abstract">A prince who neglects to rule his kingdom finds that he is about to be deposed.</meta>
 		<dc:description>
 			&lt;p&gt;Otto likes to hunt and enjoy life, while leaving the rule of his small kingdom in the hands of his wife and her trusted advisor. He hears talk of socialist revolution in his land, and when he tries to take charge, he finds that it’s not so easy to resume his rule. With intrigue and betrayal at every corner, all the players must figure out where they really stand.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Prince Otto&lt;/i&gt; was one of &lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Robert Louis Stevenson’s&lt;/a&gt; earlier works. It didn’t have the success of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island"&gt;Treasure Island&lt;/a&gt;&lt;/i&gt;, but it was, according to Stevenson, his hardest effort of any work, before or after.&lt;/p&gt;
